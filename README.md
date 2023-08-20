@@ -68,10 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TiwariBro/TiwariBro/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="right">~TIWARIBRO</h2>
 
 ###
