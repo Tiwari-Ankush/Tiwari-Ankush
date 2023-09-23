@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/ankush.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="31" alt="instagram logo"  />
   </a>
-  <a href="twitter.com/itsankushtiwari" target="_blank">
+  <a href="https://twitter.com/itsankushtiwari" target="_blank>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="31" alt="twitter logo"  />
   </a>
   <a href="https://t.me/AxByte" target="_blank">
