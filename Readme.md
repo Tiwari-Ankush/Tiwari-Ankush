@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankush Tiwari👋 
 ---
-<p align="center" height ="200px"><img src="https://getwallpapers.com/wallpaper/full/d/a/3/358849.jpg"></p>
+<p align="center" style="height: 250px;"><img src="https://getwallpapers.com/wallpaper/full/d/a/3/358849.jpg" style="height: 100%; width: auto;"></p>
 
 
 <br>
