@@ -13,9 +13,9 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushgt25@gmail.com)](mailto:ankushgt25@gmail.com) 
 - ⚡ Fun fact: I love to explore new places and technologies😉
 <br>
-<!-- - Profile views: ![](https://komarev.com/ghpvc/?username=tiwaribro) -->
+<!-- - Profile views: ![](https://komarev.com/ghpvc/?username=tiwari-ankush) -->
 <div>
-<img src="https://komarev.com/ghpvc/?username=tiwaribro" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=tiwari-ankush" alt="Profile views">
 </div>
 
 
@@ -25,9 +25,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiwariBro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiwariBro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TiwariBro&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiwari-ankush&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwari-ankush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tiwari-ankush&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/ankushbro/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" /></a>
   <a href="https://www.instagram.com/ankush.io/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /></a>
   <a href="https://medium.com/@tiwariankush" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="40" alt="medium logo" /></a>
-  <a href="https://ko-fi.com/tiwaribro/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="40" height="40" alt="ko-fi logo" /></a>
+  <a href="https://ko-fi.com/tiwari-ankush/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="40" height="40" alt="ko-fi logo" /></a>
   <a href="https://g.dev/AnkushTiwari" target="_blank"><img src="https://developers.google.com/static/profile/badges/events/beta/beta-user.svg" width="40" height="40" alt="ko-fi logo" /></a>
   <a href="https://stackoverflow.com/users/21005066/ankush-tiwari" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="40" alt="stackoverflow logo" /></a>
 
