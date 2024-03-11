@@ -36,20 +36,33 @@
 ### Languages and Tools:
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> </a> 
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> </a> 
+
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios/jquery.png" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/ios/mysql.png" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/ios/ios-filled.png" alt="java" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/ios-filled/react-native.png" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios/ios-filled/git.png" alt="git" width="40" height="40"/> </a> 
+
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  
+  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/3334/3334886.png" alt="reactnative" width="40" height="40"/> </a> 
+
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199128.png" alt="mysql" width="40" height="40"/> </a> 
+
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+
+  <a href="https://jquery.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/> </a>
+
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+  
+
 </p>
 
 
