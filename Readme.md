@@ -66,10 +66,7 @@
   <a href="https://www.instagram.com/ankush.io/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /></a>
   <a href="https://medium.com/@tiwariankush" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="40" alt="medium logo" /></a>
   <a href="https://ko-fi.com/tiwaribro/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="40" height="40" alt="ko-fi logo" /></a>
-
-<a href="https://g.dev/AnkushTiwari" target="_blank"><img src="https://developers.google.com/static/profile/badges/events/beta/beta-user.svg" width="40" height="40" alt="ko-fi logo" /></a>
- 
- 
+  <a href="https://g.dev/AnkushTiwari" target="_blank"><img src="https://developers.google.com/static/profile/badges/events/beta/beta-user.svg" width="40" height="40" alt="ko-fi logo" /></a>
   <a href="https://stackoverflow.com/users/21005066/ankush-tiwari" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="40" alt="stackoverflow logo" /></a>
 
 
