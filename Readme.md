@@ -35,7 +35,7 @@
 
 ### Languages and Tools:
 
-<p align="left"> 
+<p align="left" style="display:flex; align-items:center;> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> </a>
