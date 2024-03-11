@@ -3,11 +3,11 @@
 <p align="center" ><img src="https://getwallpapers.com/wallpaper/full/d/a/3/358849.jpg" style="height: 50% ; width: auto;"></p>
 
 
-<br>
+---
+### About me
 
-
-- 🔭 I am honing my dev and python skills.
-- 🌱 I am currently learning MERN stack Developement and React native.
+- 🔭 I'm honing my DSA, Developement and Python skills.
+- 🌱 I'm currently learning MERN stack Developement and React native.
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushgt25@gmail.com)](mailto:ankushgt25@gmail.com) 
