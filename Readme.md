@@ -81,5 +81,5 @@
 
 
 
-  <h2 style="text-align: right ;">~Tiwari Ankush</h2>
+  <h2 style="align: right ;">~Tiwari Ankush</h2>
 </a>
