@@ -61,31 +61,17 @@
   
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ankushbro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ankush.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo"  />
-  </a>
-<a href="https://medium.com/@tiwariankush" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://ko-fi.com/tiwaribro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="40" height="40" alt="ko-fi logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21005066/ankush-tiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="40" alt="stackoverflow logo"  />
-  </a>
-
-<a href="https://www.hackerrank.com/ankushtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
-
-<a href="https://leetcode.com/ankushtiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
-
-<a href="https://www.codechef.com/users/tiwariankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-chef.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/tiwariankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
-
+<p align="left" style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/ankushbro/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.instagram.com/ankush.io/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" /></a>
+  <a href="https://medium.com/@tiwariankush" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="40" height="40" alt="medium logo" /></a>
+  <a href="https://ko-fi.com/tiwaribro/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="40" height="40" alt="ko-fi logo" /></a>
+  <a href="https://stackoverflow.com/users/21005066/ankush-tiwari" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="40" alt="stackoverflow logo" /></a>
+  <a href="https://www.hackerrank.com/ankushtiwari" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
+  <a href="https://leetcode.com/ankushtiwari/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
+  <a href="https://www.codechef.com/users/tiwariankush" target="blank"><img src="https://img.icons8.com/?size=48&id=O4SEeX66BY8o&format=png" alt="Ankush Tiwari" height="40" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/tiwariankush" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
+</p>
 
 
 <!-- <a href="https://www.linkedin.com/in/arjyo-chakraborty-baa9351bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankush Tiwari" height="40" width="40" /></a>
@@ -93,4 +79,7 @@
 
 </p> -->
 
-<h2 align="right">~Tiwari Ankush</h2>
+<a href="https://instagram.com/ankush.py/" target="_blank" style="text-decoration: none;">
+  <h2 style="text-align: right;">~Tiwari Ankush</h2>
+</a>
+
