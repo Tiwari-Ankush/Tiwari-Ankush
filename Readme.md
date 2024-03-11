@@ -80,6 +80,6 @@
 </p> -->
 
 
-<a align = "right" href="https://instagram.com/ankush.py/" target="_blank" style="text-decoration: none;">
-  <h2 style="text-align: right;">~Tiwari Ankush</h2>
+
+  <h2 style="text-align: right ;">~Tiwari Ankush</h2>
 </a>
