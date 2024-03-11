@@ -18,8 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=tiwaribro" alt="Profile views">
 </div>
 
-<br>
+
 ---
+
 <h2>📊 Github Stats</h2>
 
 
@@ -30,9 +31,6 @@
 </div>
 
 
-<br>
-
-<br />
 ---
 
 ### Languages and Tools:
